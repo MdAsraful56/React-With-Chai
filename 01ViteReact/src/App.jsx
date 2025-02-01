@@ -1,4 +1,3 @@
-
 import './App.css'
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1> Hello Chai aur React </h1>
+      <h1>Code with Chai </h1>
     </>
   )
 }
