@@ -5,7 +5,8 @@ function App() {
 
   return (
     <>
-      <h1>Code with Chai </h1>
+      <h3>Code with Chai </h3>
+      <p>something wrong</p>
     </>
   )
 }
