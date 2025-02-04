@@ -7,7 +7,7 @@
 ### Video - 04: Custom React Create 
 ### Video - 05: React useState Learn
 ### Video - 06: Virtual DOM && Fiber 
-### Video - 07: Install Tailwind css && 
+### Video - 07: Install Tailwind css && Card Components 
 ### Video -
 ### Video -
 ### Video -
