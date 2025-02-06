@@ -1,16 +1,16 @@
-import React, { StrictMode } from 'react'
+import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 
 
-function MyApp() {
-  return (
-    <div>
-      <h1>Custom App  !!!</h1>
-    </div>
-  )
-}
+// function MyApp() {
+//   return (
+//     <div>
+//       <h1>Custom App  !!!</h1>
+//     </div>
+//   )
+// }
 
 
 
@@ -24,25 +24,25 @@ function MyApp() {
 // };
 
 
-const anotherElement = (
-  <a href="https://google.com" target='_blank' >Visit Google </a>
-)
+// const anotherElement = (
+//   <a href="https://google.com" target='_blank' >Visit Google </a>
+// )
 
-const reactElement = React.createElement(
-  'a',
-  { href: 'https://google.com', target: '_blank' },
-  'Click me to Visit Google',
-  anotherElement
-)
+// const reactElement = React.createElement(
+//   'a',
+//   { href: 'https://google.com', target: '_blank' },
+//   'Click me to Visit Google',
+//   anotherElement
+// )
 
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <MyApp />
+    {/* <MyApp /> */}
     {/* <reactElement />  This is not work  */}
     {/* < anotherElement /> */}
-    <reactElement />
+    {/* <reactElement /> */}
 
     
   </StrictMode>,
