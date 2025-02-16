@@ -10,7 +10,7 @@
 ### Video - 07: Install Tailwind css && Card Components 
 ### Video - 08: UseState SetCount Add More Same Time => SetCount(pre)
 
-## New Laptop HP EliteBook 845 G8    So Let Start 
+## New Laptop HP EliteBook 845 G8   ===>> So Let Start 
 
 ### Video -
 ### Video -
